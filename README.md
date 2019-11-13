@@ -1,3 +1,3 @@
-# swiftproxy
+# TannhauserGate
 
-A description of this package.
+A Swift sidecar proxy
